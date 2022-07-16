@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
+# Already published
+aws.architecture/
+aws.core.services/
+aws.integrated.services/
+aws.security/
+introduction.aws.cloud/
+pricing.and.support/
